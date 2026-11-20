@@ -13,3 +13,4 @@ de una biblioteca ficticia.
 
 Practicar el control de versiones y la colaboración
 mediante Git y GitHub.
+Horario: lunes a viernes

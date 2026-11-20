@@ -13,6 +13,7 @@ de una biblioteca ficticia.
 
 Practicar el control de versiones y la colaboración
 mediante Git y GitHub.
-Horario: martes a domingo
+
+Horario: lunes a domingo
 
 Avisos: consultar novedades en recepcion

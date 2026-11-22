@@ -17,3 +17,5 @@ mediante Git y GitHub.
 Horario: lunes a domingo
 
 Avisos: consultar novedades en recepcion
+
+Versión: 0.1.1
